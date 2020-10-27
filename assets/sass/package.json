@@ -1,0 +1,13 @@
+{
+    "name": "dart-sass",
+    "description": "VScode sass compiler",
+    "version": "1.0.0",
+    "author": "SSWS",
+    "keywords": [
+        "sass"
+    ],
+    "license": "MIT",
+    "scripts": {
+        "sass": "sass --include-path scss scss/main.scss assets/css/main.css"
+    }
+}
