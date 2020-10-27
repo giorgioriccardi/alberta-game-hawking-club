@@ -2919,7 +2919,7 @@ body.is-preload #wrapper.fade-in:before {
   background-color: #18bfef;
 }
 #intro h1 {
-  font-size: 5rem;
+  font-size: 3rem;
   line-height: 1;
 }
 #intro p {
@@ -3252,7 +3252,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   margin-top: -2rem;
 }
 #main > .post header.major > h1, #main > .post header.major h2 {
-  font-size: 4rem;
+  font-size: 2rem;
   line-height: 1.1;
   margin: 0 0 2rem 0;
 }
@@ -3989,4 +3989,4 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
     visibility: visible;
   }
 }
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=main.css.map */
